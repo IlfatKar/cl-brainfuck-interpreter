@@ -1,1 +1,1 @@
-To start, type in REPL (main "<path-to-source>")
+To start, type in REPL (main "path-to-source")
